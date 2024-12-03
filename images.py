@@ -4,7 +4,7 @@ import shutil
 
 # Paths
 posts_dir = "/home/vishwa/obsidian_vault/Second_Brain/blog-posts/"
-attachments_dir = "/home/vishwa/obsidian_vault/Second_Brain/blog-posts/"
+attachments_dir = "/home/vishwa/obsidian_vault/Second_Brain/"
 static_images_dir = "/home/vishwa/vblog/static/images/"
 
 # Step 1: Process each markdown file in the posts directory
