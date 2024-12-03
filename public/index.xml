@@ -12,8 +12,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/posts/blog-posts/my-first-post/</guid>
-      <description>![[Pasted image 20241204000927.png]] hello this is my first post and its sucessfully posted on my blog. this blog has a beautiful terminal Theme.</description>
-      <content>&lt;p&gt;![[Pasted image 20241204000927.png]]
+      <description>! hello this is my first post and its sucessfully posted on my blog. this blog has a beautiful terminal Theme.</description>
+      <content>&lt;p&gt;!&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020241204000927.png&#34;&gt;
 hello this is my first post and its sucessfully posted on my blog.
 this blog has a beautiful terminal Theme.&lt;/p&gt;
 </content>
